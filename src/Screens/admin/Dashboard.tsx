@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Typography, Grid,Button } from "@mui/material";
-import Card from "../../components/Cards"; // Ensure the correct path
+import Card from "../../components/Cards"; 
 import { PieChart, LineChart } from "@mui/x-charts";
 import GetAppIcon from '@mui/icons-material/GetApp';
 import UserManagement from "./UserManagement";
