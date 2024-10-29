@@ -5,7 +5,7 @@ import Card from "../../components/Cards";
 const Invoices: React.FC = () => {
   return (
     <Container maxWidth="md" sx={{backgroundColor:"#f6f6f6"}}>
-      <Box container display="flex" justifyContent="space-between">
+      <Box display="flex" justifyContent="space-between">
         <Typography variant="h6">Product Dashboard</Typography>
         <Typography variant="h6">Dashboard Invoices</Typography>
       </Box>
